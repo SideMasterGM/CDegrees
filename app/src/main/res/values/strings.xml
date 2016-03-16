@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConvertDegrees</string>
+    <string name="title">Convert to:</string>
+    <string name="textRBOne">From Fahrenheit to Celsius</string>
+    <string name="textRBTwo">From Celsius to Fahrenheit</string>
+    <string name="Convert">Convert Now</string>
+</resources>
